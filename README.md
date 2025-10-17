@@ -11,7 +11,7 @@ Como desenvolvedor web, sou especialista em criar landing pages, e-commerce e mu
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-blue?logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=Python&logoColor=black)
 
 ---
 
@@ -26,7 +26,6 @@ Como desenvolvedor web, sou especialista em criar landing pages, e-commerce e mu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dvitor__og/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](niel4771@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vitor-torquato)
-
 
 ---
 
